@@ -1,1 +1,1 @@
-This is MCP 1.0
+This is MCP 1.0 in Github
