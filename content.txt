@@ -1,1 +1,1 @@
-Hello MCP 1.0 this is test by Ravi
+This is MCP 1.0
